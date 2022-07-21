@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description_img_message">Menu de mensagem</string>
+    <string name="description_img_episodes">Menu de episódio</string>
+    <string name="description_img_favorites">Menu de favoritos</string>
+    <string name="description_img_pause">Pausar episódio</string>
+    <string name="description_img_play">Continuar episódio</string>
+    <string name="description_img_restart">Reiniciar episódio</string>
+    <string name="description_img_series_banner">Banner da série</string>
+    <string name="description_img_volume">Menu de volume</string>
+    <string name="description_of_the_minute_i_stopped">Um minuto e trinta</string>
+</resources>

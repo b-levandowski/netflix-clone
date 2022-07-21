@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Netflix</string>
+    <string name="description_img_message">massage menu</string>
+    <string name="description_img_volume">volume menu</string>
+    <string name="description_img_favorites">favorites menu</string>
+    <string name="description_img_episodes">episodes menu</string>
+    <string name="description_img_series_banner">series banner</string>
+    <string name="description_img_restart">restart episode</string>
+    <string name="description_img_play">play episode</string>
+    <string name="description_img_pause">pause episode</string>
+    <string name="description_series_name" translatable="false">House of cards</string>
+    <string name="description_of_the_episode_i_stopped" translatable="false">S1:E2</string>
+    <string name="play_time" translatable="false">01:30</string>
+    <string name="episode_time" translatable="false">40:39</string>
+    <string name="description_of_the_minute_i_stopped">one minute and thirty</string>
+</resources>
